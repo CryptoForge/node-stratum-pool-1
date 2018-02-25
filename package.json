@@ -1,6 +1,6 @@
 {
     "name": "stratum-pool",
-    "version": "0.1.9",
+    "version": "1.0.1",
     "description": "High performance Stratum poolserver in Node.js",
     "keywords": [
         "stratum",
@@ -19,6 +19,8 @@
     "license": "GPL-2.0",
     "author": "Matthew Little",
     "contributors": [
+        "devnulled",
+        "foxer666",
         "vekexasia",
         "TheSeven",
         "Kris Klosterman"
